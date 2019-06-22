@@ -1,0 +1,4 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+InputFileWordCount,com.rajiv.inputfile.wordcount.starter.model,Category,19,21,0,0,9,8,5,4,5,4
+InputFileWordCount,com.rajiv.inputfile.wordcount.starter,PrintWordCount,32,328,0,22,8,62,0,15,0,4
+InputFileWordCount,com.rajiv.inputfile.wordcount.starter,InputFileWordCount,42,0,2,0,8,0,4,0,3,0

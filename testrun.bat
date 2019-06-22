@@ -1,0 +1,1 @@
+java -jar target/InputFileWordCount-0.0.1-SNAPSHOT.jar input.txt
